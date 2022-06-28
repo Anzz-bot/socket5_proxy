@@ -1,2 +1,2 @@
 # socket5_proxy
-a simple socket5 example
+a simple socket5_proxy example
